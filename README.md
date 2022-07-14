@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![MasterHead](https://undo.io/media/uploads/files/HelloWorld-LiveRecorderJava-1200-x-627.gif)](https://AnshulKumarYadav.github.io)
+<img align="right" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220309002834/7-Skills-to-Become-a-Backend-Developer.png" alt="">
+
+
 <h1 align="center">Hi 👋, I'm Ankit Sah</h1>
 <h3 align="center">A result oriented Back-End Developer trainee at Masai School from India</h3>
 <img align="right" alt="Coding" width="300px" height="300px" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
